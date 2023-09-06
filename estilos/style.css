@@ -42,6 +42,10 @@ section#login{
     transition-timing-function: ease;
 }
 
+div#formulario > p{
+    padding-bottom: 10px;
+}
+
 section#login > div#imagem{
     background: #dee7e7 url(../imagens/pexels-pixabay-248921.jpg) no-repeat;
     height: 200px;
